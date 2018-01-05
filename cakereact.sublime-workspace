@@ -1,0 +1,1243 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"endfor",
+				"endforeach〔keyword〕"
+			],
+			[
+				"STR",
+				"STR_PAD_LEFT〔constant〕"
+			],
+			[
+				"hash",
+				"hashCodeString〔function〕"
+			],
+			[
+				"versi",
+				"version_code"
+			],
+			[
+				"chec",
+				"checkbox"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"Exi",
+				"ExitApp"
+			],
+			[
+				"maps",
+				"maps"
+			],
+			[
+				"acti",
+				"activation_key"
+			],
+			[
+				"related",
+				"relatedBean"
+			],
+			[
+				"rela",
+				"relationship"
+			],
+			[
+				"expire",
+				"$expire_date〔variable〕"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_array〔function〕"
+			],
+			[
+				"generate_ac",
+				"generate_activation_key_from_data〔function〕"
+			],
+			[
+				"hashC",
+				"hashCodeString"
+			],
+			[
+				"fromBase",
+				"fromBaseToDecimal"
+			],
+			[
+				"indeks",
+				"indeks_dolny"
+			],
+			[
+				"iframe",
+				"iframe	Tag"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"roz",
+				"$rozszerzenie〔variable〕"
+			],
+			[
+				"charac",
+				"charactersLength  (variable)"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"text-",
+				"text-align:   (property)"
+			],
+			[
+				"auto",
+				"autoRender  (variable)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "memento.php",
+			"settings":
+			{
+				"buffer_size": 60,
+				"line_ending": "Windows",
+				"name": "to start server : npm start"
+			}
+		},
+		{
+			"file": "modules/Accountview.js",
+			"settings":
+			{
+				"buffer_size": 1893,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/Account.js",
+			"settings":
+			{
+				"buffer_size": 8493,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/Accountedit.js",
+			"settings":
+			{
+				"buffer_size": 1224,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 1047,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"code",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"codeform",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sublimelinter setti",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sublimelinter ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublimelinter: lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+			"list(set(t))",
+			"t = [1, 2, 3, 1, 2, 5, 6, 7, 8]",
+			" t = [1, 2, 3, 1, 2, 5, 6, 7, 8]",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"print('\\n'*100)",
+			"/clr",
+			"clear",
+			"/cls",
+			"/clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/wamp/www/cakereact",
+		"/D/wamp/www/cakereact/modules"
+	],
+	"file_history":
+	[
+		"/D/wamp/www/cakereact/modules/Account.js",
+		"/D/wamp/www/cakereact/modules/Accountedit.js",
+		"/D/wamp/www/cakereact/package.json",
+		"/C/HaxLogs.txt",
+		"/C/eula.1028.txt",
+		"/D/wamp/www/cakereact/webpack.config.js",
+		"/C/Users/maq/AppData/Local/Temp/scp35850/domains/firesoft.pl/public_html/cakecrm/logs/debug.log",
+		"/D/wamp/www/cakereact/index.js",
+		"/D/wamp/www/cakereact/modules/Accountview.js",
+		"/D/wamp/www/cakereact/modules/App.js",
+		"/D/wamp/www/cakereact/index.html",
+		"/D/wamp/www/cakereact/backend/src/Controller/AppController.php",
+		"/D/wamp/www/cakereact/backend/src/Controller/AccountsController.php",
+		"/C/Users/maq/AppData/Local/Google/Chrome/User Data/Default/Cookies",
+		"/C/Users/maq/AppData/Roaming/Mozilla/Firefox/Profiles/2iuvoe0s.default-1447063958310/cookies.sqlite",
+		"/C/Users/maq/AppData/Roaming/Microsoft/Windows/Cookies/2HQQ7NXX.txt",
+		"/C/Users/maq/AppData/Roaming/Microsoft/Windows/Cookies/0IDL6DOS.txt",
+		"/D/wamp/www/cakereact/backend/src/Controller/CommentsController.php",
+		"/D/wamp/www/cakereact/modules/User.js",
+		"/D/wamp/www/cakereact/index.css",
+		"/D/wamp/www/cakereact/backend/config/app.php",
+		"/D/wamp/www/cakecrm/config/routes.php",
+		"/D/wamp/www/cakecrm/src/Controller/AccountsController.php",
+		"/D/wamp/www/cakecrm/src/Controller/AppController.php",
+		"/C/Users/maq/AppData/Local/Temp/scp17525/domains/firesoft.pl/public_html/cakecrm/logs/error.log",
+		"/D/wamp/www/cakecrm/src/Template/Users/login.ctp",
+		"/D/wamp/www/cakereact/modules/Comments.js",
+		"/D/wamp/www/cakereact/react/scripts/tutorial1.js",
+		"/D/wamp/www/cakecrm/memento.php",
+		"/D/wamp/www/cakereact/README.md",
+		"/D/wamp/www/cakereact/modules/Home.js",
+		"/D/wamp/www/react-router-tutorial/lessons/01-setting-up/package.json",
+		"/D/wamp/www/cakephp-react/react/public/scripts/tutorial1.js",
+		"/D/wamp/www/cakephp-react/index.html",
+		"/D/wamp/www/cakereact/composer.json",
+		"/D/wamp/www/cakereact/src/Template/Layout/default.ctp",
+		"/D/wamp/www/cakephp-react/index.js",
+		"/D/wamp/www/cakephp-react/webpack.config.js",
+		"/D/wamp/www/cakephp-react/modules/App.js",
+		"/D/wamp/www/cakephp-react/react/public/index.html",
+		"/D/wamp/www/react-router-tutorial/lessons/01-setting-up/index.js",
+		"/D/wamp/www/react-router-tutorial/lessons/01-setting-up/index.html",
+		"/D/wamp/www/cakecrm/webroot/ewypozycz.php",
+		"/D/wamp/www/cakecrm/src/Template/Accounts/view.ctp",
+		"/D/wamp/www/cakephp-react/backend/composer.json",
+		"/D/wamp/www/webapp/package.json",
+		"/D/wamp/www/react-router-tutorial/lessons/01-setting-up/webpack.config.js",
+		"/D/wamp/www/cakephp-react/readme.md",
+		"/D/wamp/www/cakephp-react/backend/src/Template/Pages/home.ctp",
+		"/D/wamp/www/cakephp-react/backend/src/Template/Layout/default.ctp",
+		"/D/wamp/www/cakephp-react/backend/src/Shell/ConsoleShell.php",
+		"/D/wamp/www/cakephp-react/backend/src/Model/Table/CommentsTable.php",
+		"/D/wamp/www/cakephp-react/backend/src/Model/Entity/Comment.php",
+		"/D/wamp/www/cakephp-react/backend/src/Controller/AppController.php",
+		"/D/wamp/www/cakephp-react/backend/src/Console/Installer.php",
+		"/D/wamp/www/cakephp-react/backend/src/Application.php",
+		"/D/wamp/www/rtut/main.js",
+		"/D/wamp/www/rtut/App.js",
+		"/D/wamp/www/rtut/webpack.config.js",
+		"/D/wamp/www/cakecrm/webroot/js/accounts/view.js",
+		"/C/Users/maq/AppData/Local/Temp/Bobak-2016-6.txt",
+		"/C/Users/maq/AppData/Local/Temp/Test-2016-5.txt",
+		"/C/Users/maq/AppData/Local/Temp/Test-2016-3.txt",
+		"/C/Users/maq/AppData/Local/Temp/Bobak-2016-5.txt",
+		"/C/Users/maq/AppData/Local/Temp/Test-2016-4.txt",
+		"/C/Users/maq/AppData/Local/Temp/Test-2016-2.txt",
+		"/C/Users/maq/AppData/Local/Temp/Test-2016-1.txt",
+		"/C/Users/maq/AppData/Local/Temp/Test-2016.txt",
+		"/C/Users/maq/AppData/Local/Temp/Koszałkowo-2016.txt",
+		"/C/Users/maq/AppData/Local/Temp/Bobak-2016-4.txt",
+		"/C/Users/maq/AppData/Local/Temp/u Gąsienicy-2016-1.txt",
+		"/C/Users/maq/AppData/Local/Temp/Bobak-2016-3.txt",
+		"/C/Users/maq/AppData/Local/Temp/u Gąsienicy-2016.txt",
+		"/C/Users/maq/AppData/Local/Temp/Bobak-2016-2.txt",
+		"/C/Users/maq/AppData/Local/Temp/Bobak-2016.txt",
+		"/C/Users/maq/AppData/Local/Temp/Bobak-2016-1.txt",
+		"/D/wamp/www/cakecrm/src/Template/Licenses/edit.ctp",
+		"/D/wamp/www/cakecrm/webroot/js/licenses/edit.js",
+		"/D/wamp/www/cakecrm/src/Model/Table/LicensesTable.php",
+		"/D/wamp/www/react-router-tutorial/lessons/01-setting-up/modules/NavLink.js",
+		"/D/wamp/www/react-router-tutorial/lessons/01-setting-up/modules/Home.js",
+		"/D/wamp/www/react-router-tutorial/lessons/01-setting-up/modules/Repos.js",
+		"/D/wamp/www/react-router-tutorial/lessons/01-setting-up/modules/Repo.js",
+		"/D/wamp/www/react-router-tutorial/lessons/01-setting-up/modules/App.js",
+		"/D/wamp/www/pnot/webpack.config.js",
+		"/D/wamp/www/pnot/run.js",
+		"/D/wamp/www/reactcake/src/Template/Layout/default.ctp",
+		"/D/wamp/www/rtut/package.json",
+		"/D/wamp/www/cakereact/src/Template/Layout/error.ctp",
+		"/D/wamp/www/cakereact/src/Template/Layout/ajax.ctp",
+		"/D/wamp/www/cakereact/src/View/AjaxView.php",
+		"/D/wamp/www/cakereact/src/Controller/UsersController.php",
+		"/D/wamp/www/cakereact/src/Controller/PagesController.php",
+		"/D/wamp/www/cakereact/src/Controller/ErrorController.php",
+		"/D/wamp/www/cakereact/src/Controller/CommentsController.php",
+		"/D/wamp/www/cakereact/src/Controller/AppController.php",
+		"/D/wamp/www/cakereact/config/routes.php",
+		"/D/wamp/www/cakereact/src/Application.php",
+		"/E/mega/Sapere Aude/dane.txt",
+		"/D/wamp/www/react-router-tutorial/lessons/01-setting-up/index.css",
+		"/D/wamp/www/react-router-tutorial/lessons/01-setting-up/modules/repos.js",
+		"/D/wamp/www/react-router-tutorial/lessons/01-setting-up/modules/about.js",
+		"/D/wamp/www/react-router-tutorial/README.md",
+		"/D/wamp/www/cakecrm/src/Controller/LicensesController.php",
+		"/D/wamp/www/cakecrm/src/Template/Element/actionstablecolumn.ctp",
+		"/D/wamp/www/cakecrm/src/Template/Accounts/edit.ctp",
+		"/D/wamp/www/cakecrm/src/Template/Accounts/generator.ctp",
+		"/D/wamp/www/cakecrm/webroot/js/accounts/generator.js",
+		"/C/Users/maq/AppData/Local/Temp/scp39368/domains/firesoft.pl/public_html/cakecrm/logs/debug.log",
+		"/D/wamp/www/cakecrm/src/Template/Licenses/add.ctp",
+		"/C/Users/maq/AppData/Local/Temp/scp40851/domains/firesoft.pl/public_html/cakecrm/src/Controller/AccountsController.php",
+		"/D/wamp/www/cakecrm/src/Controller/StoresController.php",
+		"/C/Users/maq/AppData/Local/Temp/scp33612/domains/firesoft.pl/public_html/cakecrm/logs/debug.log",
+		"/C/Users/maq/AppData/Local/Temp/scp29461/domains/firesoft.pl/public_html/cakecrm/logs/debug.log",
+		"/C/Users/maq/AppData/Local/Temp/scp29007/domains/firesoft.pl/public_html/cakecrm/logs/error.log",
+		"/D/wamp/www/cakecrm/src/Template/Accounts/index.ctp",
+		"/D/wamp/www/cakecrm/webroot/css/style.css",
+		"/D/wamp/www/cakecrm/src/Template/Licenses/view.ctp",
+		"/D/wamp/www/cakecrm/src/Template/Accounts/add.ctp",
+		"/D/wamp/www/cakecrm/src/Template/Accounts/archived.ctp",
+		"/D/wamp/www/cakecrm/src/Model/Table/DistribiutorsTable.php",
+		"/C/Users/maq/AppData/Local/Temp/scp47588/domains/firesoft.pl/public_html/cakecrm/logs/debug.log",
+		"/C/Users/maq/AppData/Local/Temp/scp50830/domains/firesoft.pl/public_html/cakecrm/logs/error.log",
+		"/C/Users/maq/AppData/Local/Temp/scp33356/domains/firesoft.pl/public_html/cakecrm/logs/empty",
+		"/D/wamp/www/cakecrm/src/Template/Licenses/index.ctp",
+		"/D/wamp/www/cakecrm/src/Template/Products/index.ctp",
+		"/D/wamp/www/cakecrm/src/Template/Stores/index.ctp",
+		"/D/wamp/www/cakecrm/src/Template/Users/index.ctp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\wamp\\www\\wypozycz"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"account",
+			"rowss",
+			"view",
+			"Id Code",
+			"IdCode",
+			"Id",
+			"User",
+			"Account",
+			"onClick",
+			"text",
+			"author",
+			"comment",
+			"Comment",
+			"remark",
+			"$",
+			"inst",
+			"User",
+			"this.state.value",
+			"Home",
+			"tofile",
+			"Index",
+			"default",
+			"LoadModel",
+			"License",
+			"license",
+			"License",
+			"icense",
+			"redirect",
+			"max",
+			"license-date",
+			"generator",
+			"gen",
+			"_version",
+			"generator",
+			"$NO_LICENSE_TIME",
+			"str_pad",
+			"store",
+			"pad",
+			"account",
+			"0",
+			"$NO_EXPIRED_TIME",
+			"$NO_EXPIRED_TIME\\",
+			"$this->Licenses->",
+			"$this->Licenses",
+			"$this",
+			"$this->Licenses",
+			"generator",
+			"generator_version",
+			"gen_version",
+			"generate_activa",
+			"Nieprawidlowy hashcode",
+			"Nieprawidłowy hashcode",
+			"nieprawidłowy hashcode",
+			"hashcode",
+			"save",
+			"expire_",
+			"extend_new",
+			"extend_lice",
+			"($s+1)",
+			"var_dump",
+			"walidacji",
+			"version_code",
+			"expire",
+			"expire_",
+			"registration",
+			" = ",
+			"babel",
+			"fire",
+			"'registration",
+			"registration",
+			"generate_activation",
+			"'Stores'",
+			"store",
+			"massadd",
+			"type_code",
+			"Expert",
+			"archive",
+			"git",
+			"redirect",
+			"Keld",
+			"->computer",
+			"$license",
+			"license",
+			"background",
+			"sms",
+			"sendsms",
+			"nolimit",
+			"fv",
+			"Raleway",
+			"Ubuntu",
+			"Josefin Slab",
+			"PT Sans",
+			"Droid Sans",
+			"Open Sans",
+			"programcode",
+			"Lato",
+			"klienta",
+			"All",
+			"modal_",
+			"html",
+			" =",
+			"html",
+			"=",
+			".length>0",
+			"ewypo",
+			"this->request->data",
+			"$s",
+			"generate_regis",
+			"license->",
+			"$computer->",
+			"store->",
+			"generate_reg",
+			"datatogenerate['id_code']",
+			"$i",
+			"i",
+			"store",
+			"account",
+			"loadModel",
+			"form",
+			"<button class=\"btn btn-default generator\">Generate</button>",
+			"Generate",
+			"generator",
+			"Computer",
+			"computer",
+			"programcodes",
+			"cake",
+			" ",
+			"- "
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ń",
+			"  ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "memento.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "to start server : npm start",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "modules/Accountview.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1893,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1070,
+								1070
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1405,
+										1406
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1051,
+										1052
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "modules/Account.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1279,
+								1279
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1301,
+										1302
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1274,
+										1275
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "modules/Accountedit.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								852,
+								852
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										851,
+										852
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										846,
+										847
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								392,
+								392
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										391,
+										392
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										373,
+										374
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cakereact.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\wamp\\www\\cakecrm\\cakecrm.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 242.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
